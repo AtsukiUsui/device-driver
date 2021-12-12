@@ -1,3 +1,9 @@
+// SPDX-License-Identifier: GPL-3.0
+/*
+ * Copyright (C) 2021 STRATO.  All rights reserved.
+ */
+
+
 #include <linux/module.h>
 #include <linux/fs.h>
 #include <linux/cdev.h>
