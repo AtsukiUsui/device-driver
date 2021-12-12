@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 /*
- * Copyright (C) 2021 STRATO.  All rights reserved.
+ * Copyright (C) 2020 Ryuichi Ueda.  All rights reserved.
  */
 
 
