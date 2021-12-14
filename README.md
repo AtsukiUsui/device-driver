@@ -1,18 +1,14 @@
 # device-draiver
 
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
-
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
-
-"hoge"が何かを簡潔に紹介する
+ロボットシステム学 課題１
 
 # DEMO
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+URL(youtube)  : 
 
 # Features
 
-"hoge"のセールスポイントや差別化などを説明する
+入力された英数字や記号を(欧文)モールス信号に変換する機能を有したデバイスドライバーである。
 
 # Requirement
 
@@ -47,15 +43,12 @@ python demo.py
 
 作成情報を列挙する
 
-* 作成者
-* 所属
-* E-mail
+* 作成者:AtsukiUsui
+* E-mail:programmakeadrb@cocoro.uk
 
 # License
 ライセンスを明示する
+SPDX-License-Identifier: GPL-3.0
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+Copyright (C) 2021 Atsuki Usui and Ryuichi Ueda.  All rights reserved.
 
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
