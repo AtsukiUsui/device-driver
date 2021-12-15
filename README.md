@@ -19,6 +19,7 @@ $make
 $sudo insmod myled.ko
 $sudo chmod 666 /dev/myled0
 $echo 変換元の文字 > /dev/myled0
+$sudo rmmod myled.ko
 ```
 
 
