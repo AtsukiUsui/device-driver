@@ -224,7 +224,7 @@ else if(c == 'G'){
    gpio_base[10] = 1 <<25;
    msleep(1000/3);
   }
-    gpio_ base[7] = 1 <<25;
+    gpio_base[7] = 1 <<25;
     msleep(1000/3);
     gpio_base[10] = 1 <<25;
     msleep(1000/3);
@@ -332,7 +332,7 @@ if(c == 'O'){
 }
 
 else if(c == 'P'){
-   gpio_ base[7] = 1 <<25;
+   gpio_base[7] = 1 <<25;
    msleep(1000/3);
    gpio_base[10] = 1 <<25;
    msleep(1000/3);
@@ -343,7 +343,7 @@ else if(c == 'P'){
    gpio_base[10] = 1 <<25;
    msleep(1000/3);
   }
-    gpio_ base[7] = 1 <<25;
+    gpio_base[7] = 1 <<25;
     msleep(1000/3);
     gpio_base[10] = 1 <<25;
     msleep(1000/3);
@@ -370,7 +370,7 @@ else if(c == 'Q'){
 }
 
 else if(c == 'R'){
-   gpio_ base[7] = 1 <<25;
+   gpio_base[7] = 1 <<25;
    msleep(1000/3);
    gpio_base[10] = 1 <<25;
    msleep(1000/3);
@@ -381,7 +381,7 @@ else if(c == 'R'){
    gpio_base[10] = 1 <<25;
    msleep(1000/3);
   }
-    gpio_ base[7] = 1 <<25;
+    gpio_base[7] = 1 <<25;
     msleep(1000/3);
     gpio_base[10] = 1 <<25;
     msleep(1000/3);
