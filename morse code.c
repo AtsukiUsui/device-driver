@@ -99,7 +99,7 @@ else if(c == '7'){
    msleep(1000/3);
   }
    for(i = 0 ; i < 3 ; i++){
-    gpio_ base[7] = 1 <<25;
+    gpio_base[7] = 1 <<25;
     msleep(1000/3);
     gpio_base[10] = 1 <<25;
     msleep(1000/3);
