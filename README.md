@@ -35,9 +35,20 @@ cd examples
 python demo.py
 ```
 
-# Note
+# モールス信号
 
-注意点などがあれば書く
+注意点などがあれば書ku
+```
+if(c == '0'){
+  for(int i=0 ; i<5 ; i++){
+    gpio_base[7] = 1 << 25;
+    msleep(1000);
+    gpio_base[10] = 1 <<25;
+    msleep(1000/3);
+    }
+ }
+```
+
 
 # Author
 
