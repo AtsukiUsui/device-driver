@@ -35,7 +35,7 @@ DEMOの実行は下記の回路、コマンドを用いて行う。
 $make
 $sudo insmod myled.ko
 $sudo chmod 666 /dev/myled0
-$echo My name is Atsuki Usui. It is December 15th.> /dev/myled0
+$echo  It's been very cold these days. It is December 15th.> /dev/myled0
 $sudo rmmod myled.ko
 ```
 
