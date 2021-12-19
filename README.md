@@ -9,21 +9,21 @@
 
 モールス信号は以下のルールに基づき作成する。
 
-*各記号の間は・
+* 各記号の間は・
 
-＊文字同士の間は・・・
+* 文字同士の間は・・・
 
-＊単語同士の間は・・・・・・・
+* 単語同士の間は・・・・・・・
 
-＊一線は・・・
+* 一線は・・・
 
-＊・は1/3秒
+* ・は1/3秒
 
 # Requirement
 
-*RaspberryPi 3B+
+* RaspberryPi 3B+
 
-*Ubuntu 18.04 LTS
+* Ubuntu 18.04 LTS
 
 
 # DEMO
@@ -51,7 +51,7 @@ $sudo rmmod myled.ko
 
 # Reference
 
-*【GitHub】シンプルなREADME.mdの書き方 -コピペで使えるテンプレート付き- : https://cpp-learning.com/readme/
+* 【GitHub】シンプルなREADME.mdの書き方 -コピペで使えるテンプレート付き- : https://cpp-learning.com/readme/
 
 
 # Author
