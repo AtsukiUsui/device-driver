@@ -19,6 +19,12 @@
 
 ＊・は1/3秒
 
+# Requirement
+
+*RaspberryPi 3B+
+
+*Ubuntu 18.04 LTS
+
 
 # DEMO
 
@@ -31,7 +37,11 @@ DEMOの実行は下記の回路、コマンドを用いて行う。
 
 ![IMG_2458](https://user-images.githubusercontent.com/92910077/146208050-606e1aa6-c0b4-42f0-808c-39b41afba6e5.jpg)
 
+![image](https://user-images.githubusercontent.com/92910077/146677600-168b0fab-35a4-4827-8bca-9c6d889f5354.png)
+
 ```
+$git clone 
+$cd device-driver
 $make
 $sudo insmod myled.ko
 $sudo chmod 666 /dev/myled0
