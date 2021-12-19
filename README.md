@@ -39,6 +39,9 @@ $echo  It is been very cold these days. It is December 15th.> /dev/myled0
 $sudo rmmod myled.ko
 ```
 
+#Reference
+*【GitHub】シンプルなREADME.mdの書き方 -コピペで使えるテンプレート付き- : https://cpp-learning.com/readme/
+
 
 # Author
 
@@ -50,5 +53,5 @@ $sudo rmmod myled.ko
 
 SPDX-License-Identifier: GPL-3.0
 
-Copyright (C) 2021 Atsuki Usui and Ryuichi Ueda.  All rights reserved.
+
 
